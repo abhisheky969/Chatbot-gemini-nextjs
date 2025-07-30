@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full-Stack Authentication System
 
 A secure and modern full-stack authentication system built with **Next.js**, **TypeScript**, and **MongoDB**. It includes password hashing, JWT-based session management, and email verification using **Nodemailer** and **Mailtrap**.
@@ -98,3 +99,6 @@ This project is open-source and available under the MIT License.
 
 **Note**: This project is intended for educational purposes. Please review and enhance security measures before using it in a production environment.
 
+=======
+# Chatbot-gemini-nextjs
+>>>>>>> 5e38ba848f27d5d4d20c7b15f4cfd559e1af58e5
